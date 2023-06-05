@@ -125,10 +125,12 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
+![calculator](https://github.com/Thirisha-s/mathserver/assets/120380280/e5c06f8d-1f3b-4096-b7c9-eea7273c774a)
 
 
 ## HOME PAGE:
-![image](https://github.com/Thirisha-s/mathserver/assets/120380280/29755c4b-65bf-4b71-8714-b8d8e037eee6)
+![result cal](https://github.com/Thirisha-s/mathserver/assets/120380280/06aaff35-7282-4e2d-bbde-ac086d7bc9c2)
+
 
 
 
